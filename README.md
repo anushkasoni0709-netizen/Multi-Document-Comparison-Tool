@@ -17,7 +17,7 @@ A Python-based AI-powered application that compares multiple PDF documents, iden
 ## 🛠️ Tech Stack
 
 - Python
-- Google Gemini API
+- OpenRouter API (Google Gemini Model)
 - PyPDF2 / PDF Processing
 - Streamlit (if used)
 - Git & GitHub

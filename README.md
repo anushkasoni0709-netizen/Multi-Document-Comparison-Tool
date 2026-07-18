@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-API-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 📄 Multi-Document Comparison Tool
 
 A Python-based AI-powered application that compares multiple PDF documents, identifies similarities and differences, and generates a concise comparison report using Google's Gemini API.

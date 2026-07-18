@@ -101,3 +101,16 @@ https://github.com/anushkasoni0709-netizen
 ---
 
 ## ⭐ If you found this project useful, don't forget to star the repository.
+
+---
+
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 📂 Upload PDF Files
+![Upload](screenshots/upload.png)
+
+### 📊 AI Analysis Result
+![Result](screenshots/result.png)
